@@ -36,7 +36,6 @@ I am a **Data Analytics Professional** specializing in investigating root causes
 ---
 ### 📊 Professional Stats
 ![Bhakti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BhaktiPatel9&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhaktiPatel9&layout=compact&theme=radical)
 ---
 
 ### 📫 Let's Connect
