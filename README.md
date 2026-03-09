@@ -34,10 +34,6 @@ I am a **Data Analytics Professional** specializing in investigating root causes
     * Analyzed clinical datasets of **200+ patient records** to evaluate process optimization in treatment plans.
 
 ---
-### 📊 Professional Stats
-![Bhakti's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BhaktiPatel9&theme=radical&hide_border=true)
----
-
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhakti-patel-42b65721b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bhaktigpatel18@gmail.com)
