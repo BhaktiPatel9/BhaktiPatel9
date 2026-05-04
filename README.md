@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Bhakti Patel | BI & Data Analyst
+# 👋 Hi, I’m Bhakti Patel 
+BI & Data Analyst | SQL · Python · Tableau · Power BI · AWS | Building dashboards that eliminate 60% of ad-hoc requests.
 
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
