@@ -10,7 +10,7 @@ BI & Data Analyst | SQL · Python · Tableau · Power BI · AWS | Building dashb
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-**BI & Data Analyst at Industrility** (AWS Industrial AI) building dashboards and ETL pipelines for Siemens, Hitachi, and Carrier. M.S. Analytics, 2 peer-reviewed publications on AI diagnostic equity.
+**BI & Data Analyst | Most recently at Industrility** (AWS Industrial AI), built dashboards and ETL pipelines for Siemens, Hitachi, and Carrier. M.S. Analytics, 2 peer-reviewed publications on AI diagnostic equity.
 
 ---
 
