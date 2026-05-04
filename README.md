@@ -42,4 +42,4 @@ BI & Data Analyst | SQL · Python · Tableau · Power BI · AWS | Building dashb
 **LinkedIn:** https://www.linkedin.com/in/bhakti-patel-bp818/  
 **Location:** Bellevue, WA
 
-*⚡ Fun fact: I view AI research like a lab experiment—integrity is non-negotiable, and every outlier has a story!*
+
