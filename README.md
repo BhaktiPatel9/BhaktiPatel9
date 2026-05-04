@@ -1,6 +1,4 @@
-# 👋 Hi, I’m Bhakti Patel | Analytics Engineer & Data Detective 🔍
-
-Bhakti Patel — BI & Data Analyst
+# 👋 Hi, I’m Bhakti Patel | BI & Data Analyst
 
 ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
